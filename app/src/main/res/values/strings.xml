@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gesture Detect</string>
+    <string name="upkey_face">UP</string>
+    <string name="downkey_face">DOWN</string>
+    <string name="rollupkey_face">巻上げ</string>
+    <string name="rolldownkey_face">引出し</string>
+</resources>
